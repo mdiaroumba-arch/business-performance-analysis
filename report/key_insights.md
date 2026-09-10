@@ -1,0 +1,4 @@
+Insight 1 — Sous-performance du segment Enterprise
+Le segment Enterprise génère un déficit global d’environ 0,61 M, soit une marge proche de -3 %. Cette sous-performance est observée dans tous les produits et tous les pays, ce qui suggère un problème structurel plutôt qu’un problème limité à un marché ou à un produit.
+
+L’analyse des remises montre cependant une rupture importante : Enterprise reste rentable sans remise (+0,06 M) et avec des remises faibles (+0,10 M), tandis que les niveaux Medium (-0,15 M) et surtout High (-0,62 M) sont associés à des pertes. Les remises élevées constituent donc une piste prioritaire d’investigation.
